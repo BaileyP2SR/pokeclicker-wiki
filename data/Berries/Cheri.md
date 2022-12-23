@@ -1,5 +1,6 @@
 #### Mutation Setup
 
+<<<<<<< HEAD
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png width="60" height="60") Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
 | :----: | :----: | :----: | :----: | :----: |
 [<img src="https://raw.githubusercontent.com/BaileyP2SR/pokeclicker-wiki/9e594e9d84b417cf51ca1134894360a25c514895/Razz.png" width=50% height=50%> Razz](#!Berries/Razz) |   | [<img src="https://raw.githubusercontent.com/BaileyP2SR/pokeclicker-wiki/9e594e9d84b417cf51ca1134894360a25c514895/Razz.png" width=50% height=50%> Razz](#!Berries/Razz) |   | [<img src="https://raw.githubusercontent.com/BaileyP2SR/pokeclicker-wiki/9e594e9d84b417cf51ca1134894360a25c514895/Razz.png" width=50% height=50%> Razz](#!Berries/Razz) 
@@ -14,6 +15,15 @@ Berry | Plating time with No Modifier | Planting Time with Mulch | Planting Time
 [Wacan](#!Berries/Wacan) | - | - | -
 [Petaya](#!Berries/Petaya) | 69 minutes | 420 seconds | 1337 seconds
 [Razz](#!Berries/Razz) | 25 minutes | 15 minutes | 3 seconds
+=======
+why | does | this | have | to be here
+| :----: | :----: | :----: | :----: | :----: |
+[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
+[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
+[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
+[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
+[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
+>>>>>>> parent of 96fdd13 (Update Cheri.md)
 
 
 #### Mutations
