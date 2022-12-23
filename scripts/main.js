@@ -77,8 +77,10 @@ $(document).ready(() => {
   gotoPage(decodeURIComponent(type || ''), decodeURIComponent(name || ''));
 
   ko.applyBindings({}, document.getElementById('nav-bar'));
+  ko.applyBindings({}, document.getElementById('page-title'));
+  ko.applyBindings({}, document.getElementById('breadcrumbs'));
   applyBindings.subscribe((v) => {
-    // This doesn't work as we can only bind to an element once..
+    // Unbind and re-bind knockout
     if (v) {
       applyBindings(false);
       ko.cleanNode(document.getElementById('wiki-page-content'));

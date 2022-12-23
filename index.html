@@ -57,7 +57,39 @@
             </div>
         </nav>
 
-        <main role="main" class="container">
+        <main role="main" class="container" id="main-content">
+            <nav id="breadcrumbs" aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li data-bind="class: 'breadcrumb-item' + (!window.pageType() && !window.pageName() ? ' active' : '')">
+                        <!-- ko if: window.pageType() -->
+                        <a href="#" onclick="gotoPage('', ''); return false;">Home</a>
+                        <!-- /ko -->
+                        <!-- ko ifnot: window.pageType() -->
+                        <span>Home</span>
+                        <!-- /ko -->
+                    </li>
+                    <!-- ko if: window.pageType() -->
+                    <li data-bind="class: 'breadcrumb-item' + (window.pageType() && !window.pageName() ? ' active' : '')">
+                        <!-- ko if: window.pageName() -->
+                        <a href="#" onclick="gotoPage(window.pageType(), ''); return false;" data-bind="text: window.pageType()"></a>
+                        <!-- /ko -->
+                        <!-- ko ifnot: window.pageName() -->
+                        <span data-bind="text: window.pageType()"></span>
+                        <!-- /ko -->
+                    </li>
+                    <!-- /ko -->
+                    <!-- ko if: window.pageName() -->
+                    <li data-bind="class: 'breadcrumb-item' + (window.pageType() && window.pageName() ? ' active' : '')">
+                        <span data-bind="text: window.pageName()"></span>
+                    </li>
+                    <!-- /ko -->
+                </ol>
+            </nav>
+            <div id="page-title">
+                <!-- ko if: window.pageType() -->
+                <h1 data-bind="text: window.pageName() ? window.pageName() : window.pageType()"></h1>
+                <!-- /ko -->
+            </div>
             <div id="wiki-page-content"></div>
             <div id="wiki-page-custom-content"></div>
         </main>

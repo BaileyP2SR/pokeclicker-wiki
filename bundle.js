@@ -10840,6 +10840,7 @@ App.game = new Game(
   new DreamOrbController()
 );
 App.game.farming.initialize();
+QuestLineHelper.loadQuestLines();
 
 // TODO: Fix these up somehow..
 // Overrides, these methods don't work if game not started..
@@ -10941,8 +10942,10 @@ $(document).ready(() => {
   gotoPage(decodeURIComponent(type || ''), decodeURIComponent(name || ''));
 
   ko.applyBindings({}, document.getElementById('nav-bar'));
+  ko.applyBindings({}, document.getElementById('page-title'));
+  ko.applyBindings({}, document.getElementById('breadcrumbs'));
   applyBindings.subscribe((v) => {
-    // This doesn't work as we can only bind to an element once..
+    // Unbind and re-bind knockout
     if (v) {
       applyBindings(false);
       ko.cleanNode(document.getElementById('wiki-page-content'));
@@ -10986,7 +10989,7 @@ var plugin = Plugin(
   (match, utils) => {
     var url = `gotoPage('${utils.escape(match[1])}', '${utils.escape(match[2])}')`;
 
-    return `<a href="#" class="badge text-bg-secondary" onclick="${url}; return false;">${utils.escape(match[2])}</a>`;
+    return `<a href="#!${utils.escape(match[1])}/${utils.escape(match[2])}" class="badge text-bg-secondary" onclick="${url}; return false;">${utils.escape(match[2])}</a>`;
   }
 );
 
@@ -11004,7 +11007,7 @@ var plugin = Plugin(
   (match, utils) => {
     var url = `gotoPage('${utils.escape(match[1])}', '${utils.escape(match[2])}')`;
 
-    return `<a href="#" onclick="${url}; return false;">${utils.escape(match[2])}</a>`;
+    return `<a href="#!${utils.escape(match[1])}/${utils.escape(match[2])}" onclick="${url}; return false;">${utils.escape(match[2])}</a>`;
   }
 );
 
