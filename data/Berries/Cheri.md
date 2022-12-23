@@ -1,3 +1,12 @@
+####Mutation Setup
+
+| :----: | :----: | :----: | :----: | :----: |
+| ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
 #### Mutations
  
 Cheri berries can be used to mutate the following berries.
