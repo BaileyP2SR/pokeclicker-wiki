@@ -1,19 +1,19 @@
 ####Mutation Setup
 
-how | do | i | remove | this
-| :----: | :----: | :----: | :----: | :----: |
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
+| :----: | :----: | :----: | :----: | :----: |
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
 
 ##Timing Table
-
+**All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times**
 Berry | Plating time with No Modifier | Planting Time with Mulch | Planting Time with Mulch & Sprayduck
 | :----: | :----: | :----: | :----: |
-[!Petaya](./pokeclicker/docs/assets/images/items/berry/Petaya.png) Petaya](#!Berries/Petaya) | 69 minutes | 420 seconds | 1337 seconds
-[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | 25 minutes | 15 minutes | 3 seconds
+[Wacan](#!Berries/Wacan) | - | - | -
+[Petaya](#!Berries/Petaya) | 69 minutes | 420 seconds | 1337 seconds
+[Razz](#!Berries/Razz) | 25 minutes | 15 minutes | 3 seconds
 
 
 #### Mutations
