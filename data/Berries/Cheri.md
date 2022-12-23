@@ -1,13 +1,13 @@
-####Mutation Setup
+#### Mutation Setup
 
-[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
+[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png width="60" height="60") Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
 | :----: | :----: | :----: | :----: | :----: |
-[![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
+[<img src="https://raw.githubusercontent.com/BaileyP2SR/pokeclicker-wiki/9e594e9d84b417cf51ca1134894360a25c514895/Razz.png" width=50% height=50%> Razz](#!Berries/Razz) |   | [<img src="https://raw.githubusercontent.com/BaileyP2SR/pokeclicker-wiki/9e594e9d84b417cf51ca1134894360a25c514895/Razz.png" width=50% height=50%> Razz](#!Berries/Razz) |   | [<img src="https://raw.githubusercontent.com/BaileyP2SR/pokeclicker-wiki/9e594e9d84b417cf51ca1134894360a25c514895/Razz.png" width=50% height=50%> Razz](#!Berries/Razz) 
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) |   | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) 
 [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | [![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) Razz](#!Berries/Razz) | ![Razz](./pokeclicker/docs/assets/images/items/berry/Razz.png) [Razz](#!Berries/Razz) 
 
-##Timing Table
+## Timing Table
 **All planting times use the time-to-ripe remaining of the first planted berry for subsequent planting times**
 Berry | Plating time with No Modifier | Planting Time with Mulch | Planting Time with Mulch & Sprayduck
 | :----: | :----: | :----: | :----: |
